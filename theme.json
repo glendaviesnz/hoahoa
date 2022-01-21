@@ -1,7 +1,22 @@
 {
 	"version": 2,
+	"templateParts": [
+		{
+			"name": "header",
+			"area": "header",
+			"title": "Header"
+		},
+		{
+			"name": "footer",
+			"area": "footer",
+			"title": "Footer"
+		}
+	],
 	"settings": {
 		"appearanceTools": true,
+		"spacing": {
+			"blockGap": true
+		},
 		"layout": {
 			"contentSize": "840px",
 			"wideSize": "1100px"
