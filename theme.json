@@ -21,5 +21,11 @@
 			"contentSize": "840px",
 			"wideSize": "1100px"
 		}
+	},
+	"styles": {
+		"color": {
+			"background": "#f9fbf5",
+			"text": "var(--wp--preset--color--foreground)"
+		}
 	}
 }
